@@ -16,9 +16,9 @@ Use case modelled after skeleton of a global To-Do list REST API Application.
 
 
 
-##Routes:
+## Routes:
 
-###GET:
+### GET:
 
 /                       - Simply Prints "Welcome!"
 
@@ -29,7 +29,7 @@ Use case modelled after skeleton of a global To-Do list REST API Application.
 /todos/{id}             - Displays Todo with ID {id}
 
 
-###POST:
+### POST:
 
 /todos - Adds Entry to Database. 
 
