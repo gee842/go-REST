@@ -9,7 +9,7 @@ Use case modelled after skeleton of a global To-Do list REST API Application.
 
   Required: Place github.com/gorilla/mux into your User or System src folder- eg. (~/go/src/mux)
   
-  Inside the Directory, excecute     "go run ."
+  Inside the Directory, excecute     ```go run .```
   
   Server Will be available at localhost:8080
   
