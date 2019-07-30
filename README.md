@@ -14,6 +14,7 @@ To Run:
 Routes:
 
 GET:
+
 /                       - Simply Prints "Welcome!"
 
 /todos                  - Lists all the stored To-Dos
@@ -24,5 +25,6 @@ GET:
 
 
 POST:
+
 /todos - Adds Entry to Database. 
 Usage Example: curl -H "Content-Type: application/json" -d '{"name":"New Todo"}' http://localhost:8080/todos
